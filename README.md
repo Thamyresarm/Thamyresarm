@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-     <img height="150em" shttps://github-readme-stats.vercel.app/api?username=Thamyresarm&theme=omni&show_icons=true/>
+     <img height="150em" src=https://github-readme-stats.vercel.app/api?username=Thamyresarm&theme=omni&show_icons=true/>
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamyresarm&theme=codeSTACKr&hide_border=false&&layout=compact"/>
   </a>
 </div>
