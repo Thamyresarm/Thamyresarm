@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"> Meu nome é <a href="https:/www.linkedin.com/in/thamyres-alves/"><i>Thamyres Magalhães</i></a> 😃️</h1>
+  <h1 align="center"> Meu nome é <a href="https:/www.linkedin.com/in/thamyres-magalhaes/"><i>Thamyres Magalhães</i></a> 😃️</h1>
   <p align="center">Tenho 30 anos e sou formada em Ciência da Computação no <b>Centro Universitário Estadual da Zona Oeste - UEZO</b>!
   </a><br>
   <p align="center">Estou estudando Java, Spring Framework e Banco de Dados. Além de ter conhecimento em Git!</h2>
@@ -19,6 +19,6 @@
   </div><br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/thamyres-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thamyres-magalhaes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
