@@ -4,7 +4,7 @@
   </a><br>
   <p align="center">Estou estudando Java, Spring Framework e Banco de Dados. Além de ter conhecimento em Git, HTML, CSS, Java Script e .Net</h2>
   <p align="center">Abaixo repositório com principais projetos de aprendizado:
-  <a align="center" href="https://thamyresarm.github.io/" target="_blank"><img alt="Repositório" align="center" height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/1064/1064613.png?w=360" target="_blank"></a></p>
+  <a href="https://thamyresarm.github.io/" target="_blank"><img alt="Repositório" height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/1064/1064613.png?w=360" target="_blank"></a></p>
 </div>
 
 <div align="center">
