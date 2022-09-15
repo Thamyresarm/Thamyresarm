@@ -3,7 +3,7 @@
   <p align="center">Tenho 30 anos e sou formada em Ciência da Computação no <b>Centro Universitário Estadual da Zona Oeste - UEZO</b>!
   </a><br>
   <p align="center">Estou estudando Java, Spring Framework e Banco de Dados. Além de ter conhecimento em Git, HTML, CSS, Java Script e .Net</h2>
-  <p align="center">Abaixo repositório com principais projetos de aprendizado:
+  <p align="center">Abaixo repositório com principais projetos de aprendizado:</br></br>
   <a href="https://thamyresarm.github.io/" target="_blank"><img alt="Repositório" height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/1064/1064613.png?w=360" target="_blank"></a></p>
 </div>
 
