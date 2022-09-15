@@ -18,7 +18,7 @@
   <img align="center" alt="Java" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Spring" height="30" width="40"src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" />
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://iconscout.com/icons/logo">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">
   </div><br>
 
 <div align="center">
