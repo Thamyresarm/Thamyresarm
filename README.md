@@ -2,7 +2,7 @@
   <h1 align="center"> Meu nome é Thamyres Magalhães 😃️</h1>
   <p align="center">Tenho 30 anos e sou formada em Ciência da Computação no <b>Centro Universitário Estadual da Zona Oeste - UEZO</b>!
   </a><br>
-  <p align="center">Estou estudando Java, Spring Framework e Banco de Dados. Além de ter conhecimento em Git, HTML, CSS, Java Script e .Net</h2></br>
+  <p align="center">Estou estudando Java, Spring Framework e Banco de Dados. Além de ter conhecimento em Git, HTML, CSS, Java Script e .Net</h2></br></br>
   <a href="https://thamyresarm.github.io/" target="_blank"><img height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/1064/1064613.png?w=360" target="_blank"></a>
 </div>
 
