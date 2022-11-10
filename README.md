@@ -14,8 +14,8 @@
 </div>
 
 <div align="center" valign="top"><br>
-<img align="center" alt="html" height="30" width="40"src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/html.png" />
-<img align="center" alt="css" height="30" width="40"src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/css.png" />
+<img align="center" alt="html" height="40" width="40"src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/html.png" />
+<img align="center" alt="css" height="40" width="40"src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/css.png" />
 <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/js.png"/>
 <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/nodejs.png" />
 <img align="center" alt="Mysql" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
