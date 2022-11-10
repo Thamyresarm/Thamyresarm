@@ -14,17 +14,17 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/nodejs.png" />
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/js.png"/>
-  <img align="center" alt="Mysql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Java" height="30" width="40"src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/java.png" />
-  <img align="center" alt="Spring" height="30" width="40"src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" />
-   <img align="center" alt="html" height="30" width="40"src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/html.png" />
-     <img align="center" alt="css" height="30" width="40"src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/css.png" />
-  <img align="center" alt="csharp" height="30" width="40"src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/csharp.png" />
-    <img align="center" alt="docker" height="30" width="40"src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/docker.png" />
+<img align="center" alt="html" height="30" width="40"src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/html.png" />
+<img align="center" alt="css" height="30" width="40"src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/css.png" />
+<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/js.png"/>
+<img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/nodejs.png" />
+<img align="center" alt="Mysql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="center" alt="Java" height="30" width="40"src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/java.png" />
+<img align="center" alt="Spring" height="30" width="40"src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" />
+<img align="center" alt="csharp" height="30" width="40"src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/csharp.png" />
+<img align="center" alt="docker" height="30" width="40"src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/docker.png" />
 <img align="center" alt="python" height="30" width="40"src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/python.png" />
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/git.png"/>
+<img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/git.png"/>
 <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/Thamyresarm/dio-formacao-JavaScript/main/DesafiosdeProjetos/Portifolio/data/imgs/github.png"/>
   
   </div><br>
