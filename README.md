@@ -1,6 +1,6 @@
 <div>
   <h1 align="center"> Meu nome é Thamyres Magalhães 😃️</h1>
-  <p align="center">Tenho 30 anos e sou formada em Ciência da Computação no <b>Centro Universitário Estadual da Zona Oeste - UEZO</b>!
+  <p align="center">Tenho 31 anos, sou formada em Ciência da Computação no <b>Centro Universitário Estadual da Zona Oeste - UEZO</b> e pós graduada em Gestão de Tecnologia, Inovação e Empreendedorismo pela <b>Descomplica</b>!
   </a><br>
   <p align="center">Estou estudando NodeJS, Banco de Dados e Python. Além de ter conhecimento em Git, GitHub, HTML, CSS, Java, Spring Framework, Docker e .Net</h2>
   <p align="center">Abaixo página com principais projetos de aprendizado:</br></br>
